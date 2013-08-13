@@ -6,8 +6,10 @@
 		<artifactId>bi</artifactId>
 		<version>0.1-SNAPSHOT</version>
 	</parent>
+	<groupId>kdrg</groupId>
 	<artifactId>prediction</artifactId>
-	<packaging>pom</packaging>
+	<version>0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 
 	<name>BI Prediction</name>
 
@@ -24,7 +26,4 @@
 			</plugins>
 		</pluginManagement>
 	</build>
-  <modules>
-    <module>bi-prediction</module>
-  </modules>
 </project>
