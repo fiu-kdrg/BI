@@ -11,6 +11,7 @@
 	<name>KDRG BI Project</name>
 
 	<modules>
+		<module>bi-core</module>
 		<module>bi-prediction</module>
 		<module>bi-web</module>
 	</modules>
