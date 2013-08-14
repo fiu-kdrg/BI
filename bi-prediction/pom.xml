@@ -7,7 +7,7 @@
 		<version>0.1-SNAPSHOT</version>
 	</parent>
 	<groupId>kdrg</groupId>
-	<artifactId>prediction</artifactId>
+	<artifactId>bi-prediction</artifactId>
 	<version>0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
